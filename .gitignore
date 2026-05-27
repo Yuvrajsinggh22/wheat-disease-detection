@@ -1,4 +1,4 @@
-dataset/
+dataset/raw/
 models/
 results/
 gradcam_outputs/
