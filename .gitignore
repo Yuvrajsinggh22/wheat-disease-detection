@@ -1,6 +1,4 @@
 dataset/raw/
-models/
-results/
 gradcam_outputs/
 __pycache__/
 *.pyc
